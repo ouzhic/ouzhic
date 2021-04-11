@@ -6,5 +6,6 @@
     <br>:star:Like to write code and play robots.
     <br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+    <br><br>
   </samp>
 </p>
