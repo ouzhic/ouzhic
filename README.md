@@ -1,2 +1,2 @@
-                                                ![](:school:)     A college student.
+                                                :sparkles:     A college student.
                                             Like to write code and play robots.
