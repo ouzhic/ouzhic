@@ -1,1 +1,1 @@
-                                            👋 
+                                   A college student
