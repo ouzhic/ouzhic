@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     :basketball: A college student.
-    <br>:star:Like to write code and play robots.
+    <br>:star:GoodGoodStudyDayDayUp.
     <br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br><br>
